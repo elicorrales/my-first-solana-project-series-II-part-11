@@ -1,5 +1,10 @@
 # my-first-solana-project-series-II-part-11
 
+### This project is part of a series and includes a video.
+
+See [Here](https://github.com/elicorrales/blockchain-tutorials/blob/main/README.md) for the overall document that
+refers to all the series.  
+  
 ## In this video we learn how to  
 - display any data that is passed in from the client to the on-chain program
 - control which program id (keypair) we wish to use when deploying an on-chain program

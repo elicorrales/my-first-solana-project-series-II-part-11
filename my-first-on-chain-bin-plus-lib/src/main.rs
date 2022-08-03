@@ -9,6 +9,9 @@ use solana_program::{
 };
 
 
+// this is just if you want to run the entry point lib code
+// locally.
+// it has no effect when deployed because what is deployed is the *.so lib.
 fn main() {
 
     println!("Hello, world!");
